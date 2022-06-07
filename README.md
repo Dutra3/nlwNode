@@ -7,3 +7,5 @@
   - Prisma
   - Socket.io
   - SqLite
+  - Authenticator with Github
+  - Md5 hash Generator
